@@ -4,23 +4,23 @@ R package for calculating measures of social segregation in schools
 
 ## TODO: 
 
-[] Measures of segregation functions
+- [ ] Measures of segregation functions
 
-  [] Dissimilarity index
+   - [ ] Dissimilarity index
   
-  [] Hutchen's Square Root
+   - [ ] Hutchen's Square Root
   
-  [] Intra-class correlation (steal from other repo?) 
+   - [ ] Intra-class correlation (steal from other repo?) 
   
-  [] D-Index (kelly and price)
+   - [ ] D-Index (kelly and price)
   
-  [] RDCI (steal from other repo?)
+   - [ ] RDCI (steal from other repo?)
   
-  [] Inequity score (really gotta figure this one out. Based on Donna Ford
+   - [ ] Inequity score (really gotta figure this one out. Based on Donna Ford
   
-  [] Ds (racial Dispersion. Check for accuracy) 
+   - [ ] Ds (racial Dispersion. Check for accuracy) 
   
-[] segregation curves ggplot proto
+- [ ] segregation curves ggplot proto
 
 All of these should theoretically be pipeable or `mutate`able functions e.g. 
 
